@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Linear Equation Solver</string>
+    <string name="enter_a">Enter a</string>
+    <string name="enter_b">Enter b</string>
+    <string name="solve">Solve</string>
+    <string name="next">Reset</string>
+    <string name="exit">Exit</string>
+    <string name="result">Result:</string>
+    <string name="invalid_input">Please enter valid numbers.</string>
+    <string name="infinite">Infinite solutions.</string>
+    <string name="no_solution">No solution.</string>
+    <string name="language">Language</string>
+    <string name="default_equation">ax + b = 0</string>
+</resources>

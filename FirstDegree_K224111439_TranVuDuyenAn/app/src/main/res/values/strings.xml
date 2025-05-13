@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Giải PT bậc 1</string>
+    <string name="enter_a">Nhập a</string>
+    <string name="enter_b">Nhập b</string>
+    <string name="solve">Giải</string>
+    <string name="next">Làm lại</string>
+    <string name="exit">Thoát</string>
+    <string name="result">Kết quả:</string>
+    <string name="invalid_input">Vui lòng nhập đúng định dạng số.</string>
+    <string name="infinite">Phương trình vô số nghiệm.</string>
+    <string name="no_solution">Phương trình vô nghiệm.</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="default_equation">ax + b = 0</string>
+</resources>

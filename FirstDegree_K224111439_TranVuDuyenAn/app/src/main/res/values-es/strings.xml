@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Solucionador de ecuación lineal</string>
+    <string name="enter_a">Ingrese a</string>
+    <string name="enter_b">Ingrese b</string>
+    <string name="solve">Resolver</string>
+    <string name="next">Reiniciar</string>
+    <string name="exit">Salir</string>
+    <string name="result">Resultado:</string>
+    <string name="invalid_input">Por favor, ingrese un número válido.</string>
+    <string name="infinite">Soluciones infinitas.</string>
+    <string name="no_solution">Sin solución.</string>
+    <string name="language">Idioma</string>
+    <string name="default_equation">ax + b = 0</string>
+</resources>
