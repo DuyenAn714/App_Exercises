@@ -24,7 +24,7 @@ public class ListEmployee {
         e1.setEmail("admin@gmail.com");
         e1.setPhone("0123456789");
         e1.setUsername("admin");
-        e1.setPassword("admin");
+        e1.setPassword("admin123");
         employees.add(e1);
 
         Employee e2=new Employee();
